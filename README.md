@@ -13,7 +13,7 @@ A zip file in a "raw" folder can be filtered by date. It is needed to specify in
 git clone https://github.com/feyaschuk/unzip_rename_msci.git
 ```
 ```bash
-cd unzip_rename_msci.py
+cd unzip_rename_msci
 ```
 
 * Create and activate virtual environment:
