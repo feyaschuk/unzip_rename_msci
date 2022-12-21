@@ -39,5 +39,5 @@ python unzip_rename_msci.py filter_date prefix container_name
 
 #### Example of usage:
 ```bash
-python unzip_rename_msci.py '20221129' 'raw/PL_SIC_' 'da1-p23-r-eagle-dropdir'
+python unzip_rename_msci.py '20221104' 'SECURITIES_ALL_' 'da1-p23-r-eagle-dropdir'
 ```
