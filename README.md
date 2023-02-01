@@ -40,8 +40,8 @@ token_credential = ClientSecretCredential("{tenant-id}", "{client-id}", "{client
 * Run the program:
 ```bash
 python unzip_rename_msci.py
-
-#### Example of usage:
+```
+* Example of usage:
 ```bash
 python unzip_rename_msci.py
 ```
